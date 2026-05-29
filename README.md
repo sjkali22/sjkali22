@@ -1,10 +1,12 @@
 # Hi, I'm Suraj Kalikiri
 
-**Software Engineering Graduate | Full-Stack Development · Backend APIs · Cloud/Data Platforms**
+**Software Engineer | Full-Stack Development · Backend APIs · Cloud/Data Platforms**
 
-I'm a final-year Computer Science student at Anglia Ruskin University, graduating in 2026. I’m focused on building practical software engineering projects using modern web, backend, database, cloud, and automation tools.
+I build practical, well-documented software projects using modern web, backend, database, cloud, and automation tools.
 
-My portfolio includes full-stack web applications, backend APIs, authentication systems, database-backed applications, and data platform projects. I’m interested in graduate and junior software engineering roles where I can work across application development, backend systems, APIs, databases, and cloud-enabled products.
+My work focuses on full-stack applications, backend APIs, authentication systems, database-backed products, and data platform projects. I enjoy building clean, usable systems that combine strong engineering fundamentals with clear documentation, testing, and deployment workflows.
+
+I am currently focused on software engineering roles where I can contribute across application development, backend systems, APIs, databases, cloud-enabled services, and automation.
 
 ---
 
@@ -93,7 +95,7 @@ Full-stack personal finance application for tracking income, expenses, budgets, 
 * Building portfolio-ready full-stack and backend projects
 * Improving ASP.NET Core, PostgreSQL, Docker, and GitHub Actions workflows
 * Strengthening React, Next.js, TypeScript, and API integration skills
-* Preparing for graduate and junior software engineering roles
+* Developing clean, maintainable software with strong documentation and practical deployment workflows
 
 ---
 
