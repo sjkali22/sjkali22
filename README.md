@@ -103,4 +103,3 @@ Full-stack personal finance application for tracking income, expenses, budgets, 
 
 * LinkedIn: `linkedin.com/in/suraj-kalikiri`
 * GitHub: `github.com/sjkali22`
-* Email: `suraj.kalikiri@gmail.com`
