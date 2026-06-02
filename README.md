@@ -1,6 +1,6 @@
 # Hi, I'm Suraj Kalikiri
 
-**Software Engineer | Full-Stack Development · Backend APIs · Cloud/Data Platforms**
+**Software Engineer**
 
 I build practical, well-documented software projects using modern web, backend, database, cloud, and automation tools.
 
