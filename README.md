@@ -1,105 +1,104 @@
 # Hi, I'm Suraj Kalikiri
 
-## Data Analyst
+## Software Engineer
 
-I am a Computer Science graduate focused on data analysis, business intelligence reporting and turning data into clear, practical insights.
+Computer Science graduate focused on building reliable, maintainable software across full-stack development, backend systems, cloud-based applications, and database-driven platforms.
 
-I build portfolio projects using SQL, Excel, Power BI, Python and PostgreSQL to clean data, explore trends, create dashboards and communicate findings. My work focuses on analysing structured datasets, identifying patterns, building reporting-ready outputs and presenting recommendations that support better business decisions.
+I work with C#, ASP.NET Core, JavaScript, TypeScript, React, Next.js, SQL, PostgreSQL, Python, Docker, Git, GitHub, and AWS fundamentals. My focus is on developing practical software projects with clean structure, secure backend services, REST APIs, authentication, database integration, and clear technical documentation.
 
-I am currently applying for junior data analyst, BI analyst, reporting analyst and data technician roles where I can use data to solve practical business problems and continue developing my analytical, technical and communication skills.
+My approach to software engineering is based on strong fundamentals: problem-solving, clean code, structured application design, database modelling, version control, testing, and maintainability. I enjoy taking an idea from requirements through to implementation, building systems that are practical, readable, and designed to be improved over time.
 
 ---
 
 ## Technical Skills
 
-**Data Analysis:** Excel, Pivot Tables, XLOOKUP, data cleaning, exploratory data analysis, KPI reporting
-**SQL & Databases:** SQL, PostgreSQL, joins, aggregations, filtering, grouping, relational data
-**Data Visualisation:** Power BI, dashboard design, charts, slicers, filters, trend analysis
-**Programming:** Python, Pandas, Jupyter Notebook, CSV processing, data preparation
-**Tools:** Git, GitHub, VS Code, Microsoft Office, Power BI, PowerShell
-**Professional Skills:** Problem-solving, attention to detail, communication, teamwork, customer service, commercial awareness
+**Languages:** C#, JavaScript, TypeScript, Python, SQL
+
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend:** ASP.NET Core, REST APIs, authentication, service-based architecture
+
+**Databases:** PostgreSQL, SQL, relational database design, Entity Framework Core
+
+**Cloud & DevOps:** AWS fundamentals, Docker, Docker Compose, GitHub Actions
+
+**Tools:** Git, GitHub, VS Code, Visual Studio, Postman, Swagger
+
+**Engineering Practices:** Clean code, API design, debugging, documentation, version control, problem-solving
 
 ---
 
 ## Featured Projects
 
-### Retail Sales & Profit Dashboard
+### CloudVault — Secure Cloud File Storage Application
 
-Retail-focused data analysis project exploring sales, profit, customer segments, product performance and regional trends.
+Full-stack cloud storage application focused on secure file management, backend API development, authentication, and database integration.
 
-**Tools:** Excel, SQL, Python, Power BI, GitHub
-
-**Highlights:**
-
-* Cleaned and prepared retail sales data for analysis
-* Created calculated fields for revenue, cost, profit and profit margin
-* Used SQL to analyse monthly sales trends, regional performance, average order value and product profitability
-* Built Power BI dashboard visuals for KPIs, category performance, customer segments and sales trends
-* Identified underperforming categories, discount impact and regional sales patterns
-* Produced clear business recommendations to improve margins and commercial performance
-
----
-
-### Customer Churn & Retention Analysis
-
-Customer analytics project focused on identifying churn patterns, high-risk customer groups and retention opportunities.
-
-**Tools:** Python, SQL, Excel, Power BI, GitHub
+**Tech Stack:** C#, ASP.NET Core, PostgreSQL, Entity Framework Core, Docker, React, TypeScript, GitHub Actions
 
 **Highlights:**
 
-* Analysed customer churn data to understand why customers leave
-* Cleaned and explored customer data using Python and Excel
-* Used SQL to calculate churn rates by contract type, tenure, payment method and customer segment
-* Built Power BI visuals showing churn rate, churned customers, high-risk groups and support-call patterns
-* Created recommendations focused on improving customer retention and early customer engagement
-
----
-
-### Financial Transactions Analytics Dashboard
-
-Financial data analysis project focused on income, expenses, spending behaviour, recurring payments and unusual transactions.
-
-**Tools:** Python, SQL, PostgreSQL, Power BI, Excel, GitHub
-
-**Highlights:**
-
-* Generated, cleaned and analysed structured financial transaction data
-* Stored and queried transaction records using PostgreSQL
-* Used SQL to calculate income, expenses, net cash flow, category totals and merchant summaries
-* Created dashboard-ready outputs for Power BI reporting
-* Built visuals for income vs expenses, monthly trends, spending categories, payment methods and unusual transactions
-* Identified recurring payments and spending patterns to support financial insight
+* Built a backend API using ASP.NET Core
+* Designed database models for users, files, and metadata
+* Implemented authentication and protected API endpoints
+* Integrated PostgreSQL using Entity Framework Core
+* Used Docker for local development infrastructure
+* Added Swagger documentation for testing and API visibility
+* Structured the project using a clean, maintainable application layout
 
 ---
 
 ### FinFlow — Financial Transactions Data Platform
 
-Data engineering-style project that supports data analyst work by preparing structured financial data for reporting and analysis.
+Backend and data platform project focused on transaction processing, database storage, ETL-style workflows, and structured financial data handling.
 
-**Tools:** Python, SQL, PostgreSQL, dbt, Apache Airflow, Docker, GitHub Actions, Power BI planning
+**Tech Stack:** Python, SQL, PostgreSQL, Docker, dbt, Apache Airflow, GitHub Actions
 
 **Highlights:**
 
-* Built a local batch processing pipeline for synthetic financial transaction data
-* Loaded transaction records into PostgreSQL using Python scripts
-* Modelled raw, staging, intermediate and mart layers for reporting-ready data
-* Added dbt data quality tests to improve reliability
-* Orchestrated workflows using Apache Airflow and Docker
-* Created SQL queries and reporting-ready outputs for future dashboard development
+* Built a local data processing pipeline for financial transaction records
+* Loaded structured transaction data into PostgreSQL
+* Designed raw, staging, intermediate, and reporting-ready data layers
+* Used SQL for transformation, validation, and structured querying
+* Added Docker-based infrastructure for repeatable local development
+* Planned orchestration workflows using Apache Airflow
+* Designed the project to reflect real-world data platform engineering patterns
 
-Repository: github.com/sjkali22/finflow-data-platform
+---
+
+### Full-Stack Web Projects
+
+A collection of web development projects focused on frontend interfaces, backend logic, database integration, and practical application design.
+
+**Tech Stack:** React, Next.js, TypeScript, Tailwind CSS, C#, ASP.NET Core, SQL
+
+**Focus Areas:**
+
+* Building responsive user interfaces
+* Creating reusable components
+* Connecting frontend applications to backend APIs
+* Designing clean page layouts and user flows
+* Improving project structure, readability, and maintainability
+* Practising production-style development workflows
 
 ---
 
 ## Current Focus
 
-* Building and improving data analyst portfolio projects
-* Strengthening SQL, Excel, Power BI and Python skills
-* Creating clean, business-focused dashboards and reports
-* Practising data cleaning, exploratory analysis and insight writing
-* Developing stronger commercial awareness through retail, customer and financial datasets
-* Applying for junior data analyst, BI analyst, reporting analyst and data technician roles
+* Building full-stack and backend software engineering projects
+* Strengthening C#, ASP.NET Core, React, TypeScript, SQL, PostgreSQL, Docker, and AWS fundamentals
+* Developing REST APIs, authentication systems, and database-driven applications
+* Improving software architecture, clean code, testing, and technical documentation
+* Building cloud-ready applications using Docker, GitHub Actions, and AWS fundamentals
+* Applying for software engineering, graduate developer, junior developer, backend developer, full-stack developer, and cloud engineering roles
+
+---
+
+## Professional Background
+
+Alongside my technical background, I have several years of customer-facing work experience in retail. This has helped me build strong communication, teamwork, problem-solving, commercial awareness, and customer-focused thinking.
+
+I bring this experience into software engineering by focusing on practical problem-solving, clear communication, structured work, and building software that is useful, understandable, and maintainable.
 
 ---
 
